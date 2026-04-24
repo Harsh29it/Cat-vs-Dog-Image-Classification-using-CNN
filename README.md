@@ -3,6 +3,7 @@ This project is a deep learning-based image classification system that distingui
 
 #### The system includes:
 A CNN model trained on image data
+
 A Flask backend for inference
 
 A frontend interface for image upload
@@ -11,20 +12,31 @@ Static storage for uploaded images
 
 #### Features
 Image classification using CNN
+
 Web interface for easy interaction
+
 Real-time prediction
+
 Upload and display images
+
 Confidence-based classification (extendable)
 
 #### Model Details
 Framework: TensorFlow / Keras
+
 Input Size: 128x128
+
 Output: Binary Classification (Cat / Dog)
+
 Preprocessing: Image normalization (rescaling)
 
 #### Tech Stack
 Python
+
 TensorFlow / Keras
+
 Flask
+
 HTML / CSS
+
 NumPy
