@@ -3,8 +3,11 @@ This project is a deep learning-based image classification system that distingui
 
 #### The system includes:
 A CNN model trained on image data
+
 A Flask backend for inference
+
 A frontend interface for image upload
+
 Static storage for uploaded images
 
 #### Features
